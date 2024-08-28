@@ -16,12 +16,11 @@ lookup_table.csv: The CSV file containing the destination port, protocol, and co
 flow_logs.txt: The text file containing the flow logs to be processed.
 tag_counts.csv: The output CSV file that lists each tag and the count of occurrences.
 port_protocol_counts.csv: The output CSV file that lists each unique port/protocol combination and its count.
-How to Run the Program
 
 
-# Dependencies:
+# How to Run the Program
 
-Python 3.x
+Python 3.0 or latest version
 No external libraries are required.
 
 # Instructions:
